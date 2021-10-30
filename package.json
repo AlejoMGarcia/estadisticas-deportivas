@@ -1,0 +1,22 @@
+{
+  "name": "estadisticas-deportivas",
+  "version": "1.0.0",
+  "description": "TP3 de Taller de Herramientas de Programación 2 - ORT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejoMGarcia/estadisticas-deportivas.git"
+  },
+  "author": "Alejo Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejoMGarcia/estadisticas-deportivas/issues"
+  },
+  "homepage": "https://github.com/AlejoMGarcia/estadisticas-deportivas#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
